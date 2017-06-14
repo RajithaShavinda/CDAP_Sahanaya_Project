@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+
+<category>
+<pattern>OOI</pattern>
+<template>very nice to meet you kollo</template>
+</category>
+
+<category>
+<pattern>MACHAN</pattern>
+<template>kohomada</template>
+</category>
+
+<category>
+<pattern>YAKO</pattern>
+<template>mokoo</template>
+</category>
+
+</aiml>

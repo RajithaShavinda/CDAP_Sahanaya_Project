@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mi_frnd"
+        android:icon="@android:drawable/btn_star"
+        android:title="Change frined"
+        app:showAsAction="collapseActionView" />
+
+    <item
+        android:id="@+id/mi_setting"
+        android:icon="@android:drawable/btn_star"
+        android:title="Settings"
+        app:showAsAction="collapseActionView" />
+</menu>
